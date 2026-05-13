@@ -1,0 +1,9 @@
+{
+  "pipeline_version": "4.1",
+  "n_observations": 539,
+  "forecast_horizon_wk": 156,
+  "calibration": {
+    "scaling_factor": 1.9177424250378856
+  },
+  "last_real_price_rs_kg": 204.26807291719172
+}
